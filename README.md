@@ -1,4 +1,4 @@
-# Hey, I'm Steve 🌐
+# Hey, I'm Steve 🦦
 Currently at [42 School](https://github.com/42Paris) May 2024 in the common core. Passionate about data science, hardware and embedded software.
 
 here are some projects from 42 and personal.
