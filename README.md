@@ -1,5 +1,5 @@
 # Hey, I'm Steve 🌐
-[42 School]https://github.com/42Paris
+[42 School](https://github.com/42Paris)
 # Projects
 ## Language
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
