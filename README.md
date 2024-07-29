@@ -9,7 +9,7 @@ here are some projects from 42 and personal.
   <div style="flex: 1; min-width: 45%; padding: 10px; box-sizing: border-box; text-align: center; margin-right: auto;">
     <h3><a href="https://github.com/NeverBackPing/push_swap" style="text-decoration: none; color: inherit;">Push_Swap</a></h3>
     <a href="https://github.com/NeverBackPing/push_swap">
-      <img src="https://github.com/NeverBackPing/push_swap/blob/main/push_swap.gif" alt="Push_Swap" width="350" style="max-width: 100%; height: auto;" />
+      <img src="https://github.com/NeverBackPing/push_swap/blob/main/readme/push_swap.gif" alt="Push_Swap" width="350" style="max-width: 100%; height: auto;" />
     </a>
   </div>
 </div>
