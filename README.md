@@ -1,4 +1,4 @@
 # About
-I'm a Systems Software Developer passionate about low-level programming et embedded systems.
+I'm a Systems Software Developer passionate about low-level programming and embedded systems.
 
-My areas of interest are Aerospace, Telecommunications.
+My areas of interest are aerospace and telecommunications.
